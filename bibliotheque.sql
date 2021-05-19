@@ -80,10 +80,10 @@ CREATE TABLE IF NOT EXISTS `client` (
 
 INSERT INTO `client` (`client_id`, `username`, `password`, `nom`, `prenom`, `adresse`, `tel`, `cin`, `date_naissance`, `caution`, `nb_emprunts`, `emprunts`, `permission`) VALUES
 (2, 'admin', 'admin', NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, 1),
-(4, 'Boutzrout.Hanane-BIB', 'FcILTS2B', 'Boutzrout', 'Hanane', 'Hay El Farah, rue 88, n35, Casablanca ', '0664307921', 'BL146529', '1998-06-22', 100, 10, 5, NULL),
-(17, 'Boutzrout.Yahya-BIB', 'jdPSqoyc', 'Boutzrout', 'Yahya', 'Hay El Farah, rue 88, n35, Casablanca ', '0664307921', 'BH450926', '2015-06-30', 20, 1, 1, NULL),
-(21, 'Nejjar.Fatima-BIB', 'fj2qJbOS', 'Nejjar', 'Fatima', 'Hay Amal, rue 62, n365, Casablanca ', '0664672819', 'BF234571', '1995-11-03', 50, 5, NULL, NULL),
-(22, 'John.Doe-BIB', '99hA48BE', 'John', 'Doe', 'Maarif 35, Casablanca, Maroc', '0643987623', 'BL984523', '1998-06-10', 100, 10, 1, NULL);
+(4, 'Ben.Hannah-BIB', 'FcILTS2B', 'Ben', 'Hannah', 'Somewhere, rue 33, n198, City ', '0645689384', 'B000000', '1991-06-01', 100, 10, 5, NULL),
+(17, 'Ben.Yaya-BIB', 'jdPSqoyc', 'Ben', 'Yaya', 'Neighbour, rue 344, n98, City ', '06547896', 'BD0000', '2000-09-30', 20, 1, 1, NULL),
+(21, 'Net.Fan-BIB', 'fj2qJbOS', 'Net', 'Fan', 'There, rue 62, n365, City ', '06097854', 'BF00000', '1995-11-03', 50, 5, NULL, NULL),
+(22, 'John.Doe-BIB', '99hA48BE', 'John', 'Doe', 'Here 35, City ', '0643987623', 'BL0000', '1998-06-10', 100, 10, 1, NULL);
 
 -- --------------------------------------------------------
 

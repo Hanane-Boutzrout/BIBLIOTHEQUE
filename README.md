@@ -34,5 +34,5 @@ Import then the `bibliotheque.sql` script to create your database.
 Admin's login's `admin` `admin`
 
 #### Notes
-*The database is not empty.
-*Pictures and books are from my own personal library 
+* The database is not empty.
+* Pictures and books are from my own personal library 

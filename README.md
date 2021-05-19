@@ -9,6 +9,7 @@ A simple library management system made with PHP and MySQL. It was a school proj
 * Books management
 * Members management
 * Borrowed books
+* Bought books
 
 ### Member's section
 * Member login page
@@ -26,3 +27,11 @@ A simple library management system made with PHP and MySQL. It was a school proj
 * PHP
 * MySQL
 * Chart.js
+
+## Installation
+Clone the project folder your Apache server's host folder. I used `www` for `Wampserver`.
+Import then the `bibliotheque.sql` script to create your database.
+Admin's login's `admin` `admin`
+
+#### Note
+The database is not empty

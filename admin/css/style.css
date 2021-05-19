@@ -1,0 +1,63 @@
+body {
+	background-image: url("/img/books.jpg") !important;
+	background-repeat: no-repeat;
+}
+
+.connection {
+	width: 550px;
+	position: absolute;
+	top: 30% !important;
+	left: 33% !important;
+	background-color: rgba(0,0,0,0.5) !important;
+	border-radius: 10px !important;
+	border-color: #000 !important;
+	padding: 15px 20px 15px 20px !important;
+}
+
+.form-group input {
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 35px;
+	color: #fff;
+	font-size: 15px;
+}
+
+.form-group label {
+	color: #fff;
+}
+
+.needs-validation .btn {
+	background-color: #e2a138 !important;
+	border-color: #e2a138 !important;
+	width: 100%;
+	margin-top: 15px;
+}
+
+.needs-validation .btn:hover {
+	filter: brightness(120%) !important;
+}
+
+.icon {
+	position: absolute;
+	height: 80px;
+	width: 80px;
+	border-radius: 10%;
+	overflow: hidden;
+	top: calc(-80px/2);
+	left: calc(50% - 40px);
+}
+
+h3 {
+	color: #fff;
+	margin-left: 30%;
+	padding: 10px 0 15px 10px;
+}
+
+.jumbotron {
+	height: 300px;
+	margin-top: 800px !important;
+	text-align: center;
+}
+
